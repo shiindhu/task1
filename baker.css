@@ -3,9 +3,6 @@
     font-size: 20px;
     font-weight: bold;
 }
-::placeholder {
-  color: red;
-}
 .overlay {
   opacity: 0;
   transition: .5s ease;
